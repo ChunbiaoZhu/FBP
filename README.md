@@ -5,12 +5,9 @@
 ## Abstract
 
  	
-Automatic Salient object detection has received tremendous
-attention from research community and has been an increasingly
-important tool in many computer vision tasks. This
-paper proposes a novel bottom-up salient object detection
-framework which considers both foreground and background
-cues. First, A series of background and foreground seeds
+Automatic Salient object detection has received tremendous attention from research community and has been an increasingly
+important tool in many computer vision tasks. This paper proposes a novel bottom-up salient object detection
+framework which considers both foreground and background cues. First, A series of background and foreground seeds
 are extracted from an image reliably, and then used for calculation
 of saliency map separately. Next, a combination of
 foreground and background saliency map is performed. Last,
@@ -32,7 +29,7 @@ Code will be released soon!
 
 You can download our Results on ASD Dataset in [here](https://github.com/ChunbiaoZhu/FBP/blob/master/FBP-ASD.zip)
 
-Results on other dataset please contact : zhuchunbiao@pku.edu.cn
+Results on other datasets please contact : zhuchunbiao@pku.edu.cn
 
 ## Acknowledgements
 
