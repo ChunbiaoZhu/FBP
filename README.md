@@ -24,7 +24,7 @@ methods.
 
 
 ## Framework
-![QFramework saliency detection](https://github.com/ChunbiaoZhu/FBP/blob/master/framework1.pdf)
+![QFramework saliency detection](https://github.com/ChunbiaoZhu/FBP/blob/master/framework1.jpg)
 
 ## Code & Results
 
