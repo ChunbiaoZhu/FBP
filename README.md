@@ -1,6 +1,6 @@
-## A Three-pathway Psychobiological Framework of Salient Object Detection Using Stereoscopic Technology.
+## Robust Saliency Detection via Fusing Foreground and Background Priors
 
-[Full-text is available on CVF.](https://arxiv.org/pdf/1711.00322.pdf)
+[Full-text is available on arXiv.](https://arxiv.org/pdf/1711.00322.pdf)
 
 ## Abstract
 
