@@ -1,7 +1,7 @@
 ## Robust Saliency Detection via Fusing Foreground and Background Priors
 
 
-|  ![ICIP 2018 logo][logo-ICME] | Paper accepted at [2018 IEEE International Conference on Image Processing
+|  ![ICIP 2018 logo][logo-ICIP] | Paper accepted at [2018 IEEE International Conference on Image Processing
 ](https://2018.ieeeicip.org/) October 7-10, 2018 • Athens, Greece |
 |:-:|---|
 
